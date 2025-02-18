@@ -1,0 +1,19 @@
+{
+  "name": "counter-webpage",
+  "version": "1.0.0",
+  "description": "A simple counter webpage that allows users to increment, decrement, and reset a counter.",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "npx live-server src"
+  },
+  "keywords": [
+    "counter",
+    "webpage",
+    "javascript"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
